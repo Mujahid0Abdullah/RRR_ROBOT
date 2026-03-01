@@ -65,5 +65,5 @@ Bu projenin amacı:
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/3DOF-RRR-Kinematics.git
-cd 3DOF-RRR-Kinematics
+git clone https://github.com/kullaniciadi/RRR_ROBOT.git
+cd RRR_ROBOT
