@@ -65,5 +65,5 @@ Bu projenin amacı:
 
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/kullaniciadi/RRR_ROBOT.git
+git clone https://github.com/Mujahid0Abdullah/RRR_ROBOT.git
 cd RRR_ROBOT
